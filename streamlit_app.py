@@ -4,3 +4,7 @@ streamlit.header('Breakfast Menu')
 streamlit.text('Thing 1')
 streamlit.text('Thing 2')
 streamlit.text('Thing 3')
+
+🥣 🥗 🐔 🥑🍞
+
+streamlit.header('🍌🥭 Build Your Own Fruit Smoothie 🥝🍇')
